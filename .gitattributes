@@ -1,0 +1,16 @@
+# Keep shell scripts with Unix line endings or they will not run on macOS
+# and Linux after a checkout on Windows.
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Binary files must never have their line endings touched. Without this a
+# checkout on Windows corrupts the PDF.
+*.pdf binary
+*.png binary
+*.jpg binary
+
+*.py text
+*.md text
+*.toml text
+*.yml text
+*.json text

@@ -1,0 +1,13 @@
+# Generated from gpu_credits/palette.py. Edit the palette, then run
+# python -m gpu_credits.palette to rewrite this file.
+
+[theme]
+base = "light"
+primaryColor = "#A24A07"
+backgroundColor = "#F3EDE1"
+secondaryBackgroundColor = "#EBE2D1"
+textColor = "#1A1613"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,2091 @@
+{
+  "as_of": "2026-09-02",
+  "summary": "Checked 119 programs, 58 of them open to apply right now. 55 could not be confirmed and are worth a manual look.",
+  "programs": [
+    {
+      "name": "AI Cloud Credit for Research",
+      "what_you_get": "The program offers discounts on enterprise-grade AI infrastructure. The specific amount of credit is not published. Users gain access to dedicated HGX H100 power and pre-configured GPU environments.",
+      "who_qualifies": "The page does not spell out specific eligibility criteria regarding funding stage or company age. Interested parties must apply to check their eligibility.",
+      "category": "GPU or AI cloud",
+      "status": "open to apply",
+      "program_url": "https://voltagepark.com/startups",
+      "source_urls": [
+        "https://voltagepark.com/startups"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "AI Startup Program",
+      "what_you_get": "The program provides up to $25,000 in credits for Dedicated Inference or Training and up to $2,500 in credits for Model APIs. Participants also receive priority support with fast response times, access to exclusive networking events, and go-to-market support for product launches and funding rounds.",
+      "who_qualifies": "The program is for early-stage, AI-first startups that are VC-funded. Eligible companies must be at the Seed to Series A funding stage and have been founded less than 5 years ago. Applicants must be net new customers who have never received Baseten credits before.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://www.baseten.co/startup-program/",
+      "source_urls": [
+        "https://www.baseten.co/startup-program/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Alibaba Cloud AI Catalyst Program",
+      "what_you_get": "The program offers up to $120,000 in cloud credits and up to 2 billion free Model Studio tokens. Participants also receive POC coupons, 1:1 office hours with AI experts, and 12 months of access to the Alibaba Cloud Academy. Additionally, members gain access to global events and the Alibaba Cloud AI Alliance network.",
+      "who_qualifies": "The program is targeted at startups working on AI video or image creation, AI model aggregation, or content moderation. Applicants must submit an online form for review. Successful applicants are notified via email within 4-5 business days.",
+      "category": "Hyperscaler cloud",
+      "status": "open to apply",
+      "program_url": "https://www.alibabacloud.com/en/startup/ai?_p_lc=1&rc=1",
+      "source_urls": [
+        "https://www.alibabacloud.com/en/startup/ai?_p_lc=1&rc=1"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "AMD AI Developer Program",
+      "what_you_get": "The program offers free cloud GPU credits for AMD Developer Cloud or Fireworks AI. Fireworks AI credits are specifically valued at $50 and are valid for 90 days. AMD Developer Cloud credits expire 30 days after activation. Members also receive access to exclusive training and community support.",
+      "who_qualifies": "The program is open to independent developers, startups, and open source contributors. Applicants must join the AMD AI Developer Program and provide details including affiliation, job function, and a public profile for verification. Approval typically takes 2 to 3 business days.",
+      "category": "GPU or AI cloud",
+      "status": "open to apply",
+      "program_url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-claim-amd-cloud-credits.html",
+      "source_urls": [
+        "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-claim-amd-cloud-credits.html"
+      ],
+      "confidence": "high",
+      "notes": "Fireworks AI credits are valid for 90 days, while AMD Developer Cloud credits expire 30 days after activation.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Anyscale",
+      "what_you_get": "The platform offers a $100 credit for new users. This credit allows access to the Anyscale platform and dozens of code templates to help build and scale AI workloads.",
+      "who_qualifies": "The page does not spell it out. It simply invites users to start building with a free account.",
+      "category": "Data or AI infrastructure",
+      "status": "open to apply",
+      "program_url": "https://www.anyscale.com/",
+      "source_urls": [
+        "https://www.anyscale.com/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Arm Flexible Access for Startups",
+      "what_you_get": "The program provides access to a wide range of Arm IP, tools, and training at zero cost for eligible startups. License fees for specific IP are only due at the point of manufacture, and royalties are paid for units shipped. It includes the same benefits as the standard Arm Flexible Access program.",
+      "who_qualifies": "Early-stage silicon startups are eligible for the program. The page does not specify exact funding stages or age requirements, and interested parties must contact an Arm representative to apply.",
+      "category": "Ecosystem or hardware program",
+      "status": "open to apply",
+      "program_url": "https://www.arm.com/products/flexible-access",
+      "source_urls": [
+        "https://www.arm.com/products/flexible-access"
+      ],
+      "confidence": "high",
+      "notes": "The program is specifically for silicon startups. Licensing payments for specific IP are only required at tape-out.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "AssemblyAI startup program",
+      "what_you_get": "Accepted startups receive 12 months of recurring free credits to use on core voice AI infrastructure, including Speech-to-text, Streaming, and Dictation APIs. The program also provides discounted startup pricing that continues after credits expire, along with hands-on guidance from Forward Deployed Engineers. Additionally, participants gain access to exclusive co-marketing opportunities and a community of Voice AI builders.",
+      "who_qualifies": "The program is open to early-stage startups from pre-seed to Series A, including bootstrapped teams. Applicants must be building a product with speech or audio at its core and be planning to launch within 6 months. Portfolio companies of partner VCs and accelerators like Accel and Y Combinator are eligible for a fast-tracked 48-hour review process.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://www.assemblyai.com/contact/startup-program",
+      "source_urls": [
+        "https://www.assemblyai.com/contact/startup-program"
+      ],
+      "confidence": "high",
+      "notes": "Discounted pricing does not apply to the LLM Gateway.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "AWS Activate",
+      "what_you_get": "Startups can receive up to $200,000 in AWS Activate Credits to cover infrastructure, data services, and AI/ML models. These credits are also redeemable for third-party models on Amazon Bedrock. AI startups may be eligible for additional credits beyond the standard Activate offer.",
+      "who_qualifies": "The program supports startups at any stage of growth, from ideation to IPO. Eligibility is open to startups regardless of their funding level. The page does not specify exact age or referral requirements.",
+      "category": "Hyperscaler cloud",
+      "status": "open to apply",
+      "program_url": "https://aws.amazon.com/startups/",
+      "source_urls": [
+        "https://aws.amazon.com/startups/"
+      ],
+      "confidence": "high",
+      "notes": "Credits can be used for third-party models on Amazon Bedrock.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "AWS Activate",
+      "what_you_get": "The program offers AWS credits ranging from $1,000 to over $100,000 depending on the specific partner channel and startup stage. These credits cover most core AWS services like EC2, Lambda, S3, RDS, and DynamoDB for a period of 12 months. Credits from different partner channels can be stacked to reach higher totals.",
+      "who_qualifies": "Eligibility varies by program tier. The Founders tier is for bootstrapped startups with fewer than 10 employees and under $1M in revenue. Other tiers require affiliation with specific partners like Y Combinator, Stripe Atlas, or other recognized accelerators and VC firms.",
+      "category": "Hyperscaler cloud",
+      "status": "open to apply",
+      "program_url": "https://northflank.com/blog/how-to-get-free-aws-credits-for-your-startup",
+      "source_urls": [
+        "https://northflank.com/blog/how-to-get-free-aws-credits-for-your-startup"
+      ],
+      "confidence": "high",
+      "notes": "Credits do not cover AWS Marketplace purchases, premium support plans, or third-party SaaS products. Credits are one-time per company and cannot be transferred between accounts.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Beam",
+      "what_you_get": "The program offers $30 in free credits that are refreshed monthly. These credits can be used to run sandboxes and GPU workloads on their infrastructure.",
+      "who_qualifies": "The page does not spell out specific eligibility requirements for the credit program. It is open for users to start building on the platform.",
+      "category": "GPU or AI cloud",
+      "status": "open to apply",
+      "program_url": "https://www.beam.cloud/",
+      "source_urls": [
+        "https://www.beam.cloud/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Cerebras Inference Cloud",
+      "what_you_get": "The page mentions a free trial on the Cerebras Inference Cloud. No specific amount of credits or duration is published. You can access their inference services through their API.",
+      "who_qualifies": "The page does not spell out eligibility requirements for the free trial. It is open for developers to get started.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://www.cerebras.ai/",
+      "source_urls": [
+        "https://www.cerebras.ai/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Claude for Startups",
+      "what_you_get": "The program offers Claude API credits and priority rate limits to help startups build and scale. The specific dollar amount of the credits is not published. Participants also gain access to community events like hackathons and Founder Days.",
+      "who_qualifies": "Early-stage founders and startups building with Claude can apply. To qualify for credits, companies must have received equity funding from an institutional investor, been founded within the last four years, and not previously received Anthropic startup credits. You must have a Claude Console account and a company email address.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://claude.com/programs/startups",
+      "source_urls": [
+        "https://claude.com/programs/startups"
+      ],
+      "confidence": "high",
+      "notes": "Credits are only valid for the first-party Claude API via the Claude Console and cannot be used on AWS Bedrock, Google Cloud Vertex AI, or other third-party platforms.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "own site"
+    },
+    {
+      "name": "ClickHouse Startup Offer",
+      "what_you_get": "Startups receive $5000 in ClickHouse Cloud credits valid for 12 months. The offer also includes basic support and opportunities for promotion, such as joint blog posts and speaking engagements at community events.",
+      "who_qualifies": "Eligible startups must be less than three years old and pre-Series D. Applicants must be part of a selected partner program, have a valid verification code from their accelerator, incubator, or VC, and be new to ClickHouse Cloud.",
+      "category": "Data or AI infrastructure",
+      "status": "open to apply",
+      "program_url": "https://clickhouse.com/startup-offer",
+      "source_urls": [
+        "https://clickhouse.com/startup-offer"
+      ],
+      "confidence": "high",
+      "notes": "Applicants must sign up for a ClickHouse Cloud trial and provide their Organization ID to apply.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Cloudflare for Startups",
+      "what_you_get": "The program offers three tiers of credits: $10,000, $100,000, or $350,000, valid for one year. Credits cover usage-based services like Workers, R2, and AI, while core security and networking features are included for free. Higher tiers also provide access to account managers, technical sessions, and priority support.",
+      "who_qualifies": "Eligible startups must be incorporated within the last 10 years, funded up to Series B, and actively developing a technology product. Applicants must have a live website, a public social media presence, and a business email address. The program is not open to consultancies, service agencies, or resellers.",
+      "category": "App platform or PaaS",
+      "status": "open to apply",
+      "program_url": "https://www.cloudflare.com/startups/",
+      "source_urls": [
+        "https://www.cloudflare.com/startups/"
+      ],
+      "confidence": "high",
+      "notes": "Credits have specific caps for R2 ($10,000) and Workers AI (up to $50,000). AI Gateway and domain registrar services are excluded from credit coverage. You must have a valid payment method on file, and you will be billed for any overages.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Cloudflare for Startups",
+      "what_you_get": "The program offers credits ranging from $10,000 to $350,000 for one year, depending on your funding stage. Credits cover usage-based services like Workers, R2, and AI, while core security and networking features are included at no cost. Higher tiers provide additional benefits such as account management, priority support, and expert office hours.",
+      "who_qualifies": "Startups must be incorporated within the last 10 years, be funded up to Series B, and have a live, publicly accessible website. You must be actively developing a technology product and have a public social media presence on LinkedIn, X, or GitHub. The program is for first-time applicants only and requires a business email address.",
+      "category": "App platform or PaaS",
+      "status": "open to apply",
+      "program_url": "https://www.cloudflare.com/startups/",
+      "source_urls": [
+        "https://www.cloudflare.com/startups/"
+      ],
+      "confidence": "high",
+      "notes": "Credits are valid for one year and do not cover domain registration, AI Gateway, or premium network services like Magic Transit. There are specific caps on R2 and Workers AI usage. You must have a valid payment method on file, and you will be billed for any overages or services used after the credits expire.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Confluent Cloud",
+      "what_you_get": "New users receive $400 in credits to start building on the platform. This allows users to launch a cluster, connect data sources, and use the Schema Registry.",
+      "who_qualifies": "The page does not spell out specific eligibility requirements for startups. It mentions that organizations of all sizes, from startups to global enterprises, use the platform.",
+      "category": "Data or AI infrastructure",
+      "status": "open to apply",
+      "program_url": "https://www.confluent.io/",
+      "source_urls": [
+        "https://www.confluent.io/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Crusoe Intelligence Foundry",
+      "what_you_get": "Users receive $5 in free credits to fine-tune and serve models within the Crusoe Intelligence Foundry. The platform provides serverless fine-tuning and one-click inference deployment capabilities.",
+      "who_qualifies": "The page does not spell it out. It does not specify funding stage, company age, or other eligibility requirements.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://www.crusoe.ai/",
+      "source_urls": [
+        "https://www.crusoe.ai/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Databricks Startup Program",
+      "what_you_get": "Self-funded startups receive up to $1,000 in Neon credits, while VC-backed startups can receive up to $200,000 in combined Neon and Databricks credits. Both tiers include onboarding support and early access to new features. VC-backed participants also gain access to co-marketing and speaking opportunities.",
+      "who_qualifies": "Self-funded startups must have less than $1M in funding and be building an early-stage product. VC-backed startups must have raised at least $1M or be part of a recognized accelerator like Y Combinator. Applications are reviewed within a few business days.",
+      "category": "Data or AI infrastructure",
+      "status": "open to apply",
+      "program_url": "https://neon.com/startups",
+      "source_urls": [
+        "https://neon.com/startups"
+      ],
+      "confidence": "high",
+      "notes": "Credits are valid for 12 months from the date of acceptance. Existing users of Neon or Databricks are eligible to apply.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Databricks Startup Program",
+      "what_you_get": "Qualifying startups receive up to $200,000 in credits to use across Databricks and Neon. The program also provides hands-on technical guidance for architecture and shipping products. Additionally, participants gain access to go-to-market teams and founder communities.",
+      "who_qualifies": "The program is designed for early-stage, venture-backed startups. It specifically targets founders who have raised institutional funding ranging from pre-seed through Series A. Companies should be building their business on data and AI.",
+      "category": "Data or AI infrastructure",
+      "status": "open to apply",
+      "program_url": "https://www.databricks.com/blog/announcing-new-databricks-startup-program",
+      "source_urls": [
+        "https://www.databricks.com/blog/announcing-new-databricks-startup-program"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Deepgram for Startups",
+      "what_you_get": "Participants receive up to $100,000 in API credits to use for speech-to-text, text-to-speech, and voice agent capabilities. These credits are valid for 12 months. Additionally, startups gain access to exclusive events, engineering support groups, and the Deepgram startup community.",
+      "who_qualifies": "Applicants must be an AI builder or an early-stage startup. The company must be in production or planning to launch within the next 6 months. Participants must also be committed to actively building and engaging with the Deepgram community.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://deepgram.com/startup-program",
+      "source_urls": [
+        "https://deepgram.com/startup-program"
+      ],
+      "confidence": "high",
+      "notes": "Credits are deposited into the user's console within 24-48 hours of acceptance. Applicants must create a Deepgram account and provide a Project ID to apply.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Denvr AI Ascend",
+      "what_you_get": "The program offers an initial $1,000 in startup credits. Eligible teams can receive up to $500,000 in production credits for Denvr AI Cloud services, including access to advanced GPUs.",
+      "who_qualifies": "The program is designed for early-stage AI developers and adopters. Eligibility for the higher credit tiers is based on the team's needs and potential.",
+      "category": "GPU or AI cloud",
+      "status": "open to apply",
+      "program_url": "https://www.denvr.com/",
+      "source_urls": [
+        "https://www.denvr.com/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "own site"
+    },
+    {
+      "name": "DigitalOcean Startups",
+      "what_you_get": "The program provides DigitalOcean credits for 12 months to help with infrastructure costs. Participants also receive 15 months of free Standard-tier paid support and access to one-on-one guidance from product managers and engineers. Additionally, startups can join the DigitalOcean startup community for networking opportunities.",
+      "who_qualifies": "The program prioritizes AI-native startups that have raised $10 million or less. Applicants must have a company website and a business email address to create a DigitalOcean team account. Service-based startups like marketing agencies or consulting firms are not eligible.",
+      "category": "App platform or PaaS",
+      "status": "open to apply",
+      "program_url": "https://www.digitalocean.com/startups",
+      "source_urls": [
+        "https://www.digitalocean.com/startups"
+      ],
+      "confidence": "high",
+      "notes": "Core credits do not cover GPU Droplets, NVIDIA H100s, Kubernetes Bare Metal GPUs, or third-party AI model inference. GPU credits are a separate benefit available only to select startups after a review. Credits are not transferable and cannot be used for cryptocurrency mining.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "E2E Networks Startup Program",
+      "what_you_get": "The program offers three tiers: AI Explorer provides $5K in free credits, AI Builder provides up to $50K in usage-based discounts, and AI Scaler provides up to $100K in usage-based discounts. Participants also receive hands-on engineering support and access to NVIDIA H200/H100 capacity. The credits are valid for E2E services.",
+      "who_qualifies": "Eligibility depends on the tier. AI Explorer is for bootstrapped or early-stage companies with 10 or fewer employees founded within five years. AI Builder requires $2M+ raised and an AI-first product beyond the prototype stage. AI Scaler requires $5M+ raised and substantial compute demand for companies founded within seven years.",
+      "category": "GPU or AI cloud",
+      "status": "open to apply",
+      "program_url": "https://www.e2enetworks.com/startup-program",
+      "source_urls": [
+        "https://www.e2enetworks.com/startup-program"
+      ],
+      "confidence": "high",
+      "notes": "The program is open to startups worldwide. AI Builder and AI Scaler tiers offer usage-based discounts rather than free credits.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Ecosystem Grants",
+      "what_you_get": "The program provides capital to fund development of open-source tools, infrastructure, or specialized interfaces. The amount of funding is not published. Funding is provided through community-governed AKT tokens or direct grants from Overclock Labs.",
+      "who_qualifies": "The program is open to developers and creators building on the Akash Network. Eligibility depends on contributing to documentation, managing testnets, or developing high-impact infrastructure. Proposals for the community pool must pass on-chain governance.",
+      "category": "Ecosystem or hardware program",
+      "status": "open to apply",
+      "program_url": "https://akash.network/development/funding-program/",
+      "source_urls": [
+        "https://akash.network/development/funding-program/"
+      ],
+      "confidence": "high",
+      "notes": "This is a grant program for development and contributions rather than a standard startup credit program for compute resources.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "ElevenLabs Grants",
+      "what_you_get": "The program provides 33,000,000 characters, which is over 680 hours of Agents usage, valued at over $4,000. You receive 12 months of free access to the full ElevenLabs platform. Additionally, participants get access to exclusive in-person and online founder events and startup support.",
+      "who_qualifies": "The program is open to startups and companies with less than 25 employees. Applicants must have a business or monetization strategy and intend to build a long-term product. Agencies, consulting firms, and existing enterprise customers are not eligible, and projects for minors are excluded.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://elevenlabs.io/startup-grants",
+      "source_urls": [
+        "https://elevenlabs.io/startup-grants"
+      ],
+      "confidence": "high",
+      "notes": "Applications are reviewed within one week. If you exceed the 33 million character limit or reach the end of the 12-month term, the account automatically converts to a Free plan.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "fal for Startups & Builders",
+      "what_you_get": "The Builder Grant offers $25 to $250 in credits for indie builders. The Startup Program offers $1,000 to $5,000 in credits for scaling startups, which can grow based on monthly usage. Startup Program participants also receive partner perks and priority introductions.",
+      "who_qualifies": "Both programs are currently limited to teams based in Europe and Asia. The Builder Grant is for solo developers or small teams building generative media apps without funding requirements. The Startup Program is for VC-backed startups or those with proven traction and scaling usage.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://fal.ai/startups",
+      "source_urls": [
+        "https://fal.ai/startups"
+      ],
+      "confidence": "high",
+      "notes": "Credits are for building your own product and cannot be resold or transferred. Only one program per company is allowed, and applications are limited to once every three months.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Fireworks for Startups",
+      "what_you_get": "Eligible startups receive credits that expire after one year to help with prototyping and scaling. The program also provides access to applied AI experts, an exclusive startup community, collaborative roadmap sessions, and joint marketing opportunities. Credits can be used for text and vision inference, image generation, speech-to-text, embeddings, model fine-tuning, and on-demand GPU deployments.",
+      "who_qualifies": "Startups must be a registered, privately held, for-profit entity with a functional website. They must have been founded within the last 5 years and be venture-backed with more than $500k in funding. Companies must not have received Series D or later funding.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://fireworks.ai/startups",
+      "source_urls": [
+        "https://fireworks.ai/startups"
+      ],
+      "confidence": "high",
+      "notes": "Credits only apply to on-demand usage and do not cover reserved GPU capacity, professional services, or premium support.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Google for Startups Cloud Program",
+      "what_you_get": "The program offers $2,000 in credits for pre-funded startups to build an MVP. Seed to Series A startups can receive $200,000 in cloud credits, which increases to $350,000 for AI-first startups. Series B+ startups receive access to customized cloud solutions and support to help with scaling and growth.",
+      "who_qualifies": "The program is segmented by funding stage, ranging from pre-funded startups to Series B+ companies. Specific eligibility criteria beyond funding stage are not detailed on the page.",
+      "category": "Hyperscaler cloud",
+      "status": "open to apply",
+      "program_url": "https://cloud.google.com/startup",
+      "source_urls": [
+        "https://cloud.google.com/startup"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Huawei Cloud Startup Program",
+      "what_you_get": "Participants can receive a minimum of 5,000 USD in Huawei Cloud cash credits, with the possibility to apply for up to 150,000 USD. The program also provides dedicated team support for cloud migration, entrepreneurial coaching, and access to business resources. Additionally, startups gain co-selling opportunities in the Huawei Cloud marketplace, co-marketing support, and global ecosystem collaboration.",
+      "who_qualifies": "The enterprise must have been established less than 5 years ago. The company must not be listed, and no more than 50% of its shares can be held by a listed company. Applicants must register a Huawei Cloud account and complete enterprise real-name verification.",
+      "category": "Hyperscaler cloud",
+      "status": "open to apply",
+      "program_url": "https://startup.huaweicloud.com/intl/en-us/",
+      "source_urls": [
+        "https://startup.huaweicloud.com/intl/en-us/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "IBM Sofia Accelerator",
+      "what_you_get": "The program provides access to IBM Cloud credits and IBM watsonx technology. Participants also receive mentorship, coaching, and access to industry experts, investors, and potential clients. The amount of cloud credits is not published.",
+      "who_qualifies": "The program targets startups that have already received funding in the post-Seed and Round A stages. It focuses on companies working in digital health, customer experience, sustainability, cybersecurity, fintech, AI, data, and quantum computing. Up to ten startups are accepted per class.",
+      "category": "Ecosystem or hardware program",
+      "status": "open to apply",
+      "program_url": "https://www.ibm.com/info/sofia-accelerator",
+      "source_urls": [
+        "https://www.ibm.com/info/sofia-accelerator"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "JioBusiness Startups Solutions",
+      "what_you_get": "The program offers various support services including access to JioCloud, mentorship, hiring support, and go-to-market assistance. Startups can benefit from freemium and OPEX charge models, with claims of up to 90% cost savings from Jio and partners. Specific credit amounts are not published.",
+      "who_qualifies": "Eligibility is divided into three stages: 'Just started out' for ideation to early traction, 'Building' for early traction to growth phase, and 'Grow' for growth or mature phase. Companies must be self, seed, or Series A+ funded depending on their stage. The program is open to startups from inception up to 3+ years.",
+      "category": "App platform or PaaS",
+      "status": "open to apply",
+      "program_url": "https://www.jio.com/business/segment/start-up/",
+      "source_urls": [
+        "https://www.jio.com/business/segment/start-up/"
+      ],
+      "confidence": "high",
+      "notes": "The program acts as an aggregator for various partner offers, including Microsoft Azure, GitHub, and LinkedIn, rather than being a single compute credit program.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Koyeb Startup Program",
+      "what_you_get": "The program offers up to $30,000 in credits to help startups accelerate their go-to-market strategy. These credits can be used for high-performance cloud infrastructure.",
+      "who_qualifies": "The program is specifically for early-stage startups. The page does not provide further details on specific funding stages, age requirements, or application review timelines.",
+      "category": "App platform or PaaS",
+      "status": "open to apply",
+      "program_url": "https://www.koyeb.com/",
+      "source_urls": [
+        "https://www.koyeb.com/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Microsoft for Startups Founders Hub",
+      "what_you_get": "The program offers up to USD$150,000 in Azure credits. It also provides access to AI models, developer tools, expert technical guidance, and resources to help with go-to-market success.",
+      "who_qualifies": "The page does not explicitly detail specific funding stages or company age requirements. It mentions that users can sign up if they have an investor referral code or want to start building with Azure.",
+      "category": "Hyperscaler cloud",
+      "status": "open to apply",
+      "program_url": "https://www.microsoft.com/en-in/startups",
+      "source_urls": [
+        "https://www.microsoft.com/en-in/startups"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Migration credits",
+      "what_you_get": "The program offers up to $10,000 in migration credits. The page does not specify further details regarding the terms or duration of these credits.",
+      "who_qualifies": "The page does not spell out specific eligibility criteria for the migration credits. It only mentions that the offer is for those migrating production infrastructure.",
+      "category": "App platform or PaaS",
+      "status": "open to apply",
+      "program_url": "https://render.com/",
+      "source_urls": [
+        "https://render.com/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Modal for Startups",
+      "what_you_get": "The program offers thousands of free GPU credits. Participants also receive technical support from Modal's engineering team and GTM amplification for launches and raises. Additionally, members gain access to an exclusive community of founders.",
+      "who_qualifies": "The program is for new Modal customers. Eligibility is based on funding stages, specifically targeting startups from Seed to Series B+ that have raised VC funding from their partner network or over $1 million from any fund.",
+      "category": "GPU or AI cloud",
+      "status": "open to apply",
+      "program_url": "https://modal.com/startups",
+      "source_urls": [
+        "https://modal.com/startups"
+      ],
+      "confidence": "high",
+      "notes": "Credits are a one-time grant and cannot be reapplied for once received in a given tier.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "MongoDB for Startups",
+      "what_you_get": "The program provides Atlas credits, Voyage AI tokens, technical expertise, and dedicated support. The specific dollar amount of the credits is not published. Participants also receive access to one-on-one sessions with experts for guidance on startup needs.",
+      "who_qualifies": "Startups must be less than 7 years old and at Series A funding or earlier. They must be building a scalable software-based product or service. Development shops and agencies are not eligible, and applicants must have an active company website and LinkedIn profile.",
+      "category": "Data or AI infrastructure",
+      "status": "open to apply",
+      "program_url": "https://www.mongodb.com/solutions/startups",
+      "source_urls": [
+        "https://www.mongodb.com/solutions/startups"
+      ],
+      "confidence": "high",
+      "notes": "Credits are valid for 12 months after activation. Promo codes apply only to future charges and cannot be used for past usage.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Novita AI for Startups",
+      "what_you_get": "Eligible startups can receive up to $10,000 in usage credits for Model APIs and Agent Sandbox. The program provides $1,000 upfront, followed by a 1:1 match for the next $5,000, and a 1:2 match for the final $4,000. Participants also receive dedicated support from Novita engineers and marketing promotion across Novita channels.",
+      "who_qualifies": "Startups must be venture-backed and at Series B stage or earlier. They must be building an AI-native product or platform and be new Novita users. Applications are reviewed based on funding, revenue, team, and expected usage.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://startups.novita.ai/",
+      "source_urls": [
+        "https://startups.novita.ai/"
+      ],
+      "confidence": "high",
+      "notes": "Credits are split into $5,000 for Agent Sandbox and $5,000 for Model API usage. Credits are valid for one year.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "NVIDIA Inception",
+      "what_you_get": "Members receive access to developer tools, training, and preferred pricing on select NVIDIA hardware and software. The program also provides access to free cloud credits from partners and exposure to a network of investors. The specific amount of credits or discount percentages is not published.",
+      "who_qualifies": "Startups must be officially incorporated, have at least one developer, and maintain a working website. The company must be less than 10 years old. Consulting firms, cryptocurrency companies, cloud service providers, resellers, and public companies are not eligible.",
+      "category": "Ecosystem or hardware program",
+      "status": "open to apply",
+      "program_url": "https://www.nvidia.com/en-us/startups/",
+      "source_urls": [
+        "https://www.nvidia.com/en-us/startups/"
+      ],
+      "confidence": "high",
+      "notes": "Preferred pricing is provided as a rebate through suppliers rather than a direct discount. The program does not guarantee access to specific GPU hardware.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "NVIDIA Inception Program",
+      "what_you_get": "Members receive up to $100,000 in AWS credits and up to $100,000 in NVIDIA DGX Cloud credits for H100 capacity. The program also provides preferred GPU pricing, free technical training through the Deep Learning Institute, and access to NVIDIA Developer Forums and SDKs. Additionally, members get co-marketing support and networking opportunities through Inception Capital Connect.",
+      "who_qualifies": "Startups must be officially incorporated, maintain a working website, and be less than ten years old. The company must be actively developing an AI or machine learning product and have at least one developer. Consulting firms, crypto-focused startups, resellers, and public companies are excluded.",
+      "category": "Ecosystem or hardware program",
+      "status": "open to apply",
+      "program_url": "https://www.thundercompute.com/blog/nvidia-inception-program-guide",
+      "source_urls": [
+        "https://www.thundercompute.com/blog/nvidia-inception-program-guide"
+      ],
+      "confidence": "high",
+      "notes": "The 30% DGX Cloud discount requires a minimum commitment of 4 nodes and $75,000 in spend. AWS credit amounts vary based on eligibility and startup profile.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "OpenRouter for Startups",
+      "what_you_get": "Eligible startups receive up to $3,000 in universal inference credits usable across over 500 models. Additionally, the program includes 0% processing fees for 12 months. These benefits apply to both platform fees and BYOK fees.",
+      "who_qualifies": "The program is open to pre-Series B startups building AI-native products full-time. Applicants must be referred by an approved OpenRouter partner and have a public company website. You must also have less than $500 in lifetime OpenRouter spend and use a professional email address matching your company domain.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://openrouter.ai/startups",
+      "source_urls": [
+        "https://openrouter.ai/startups"
+      ],
+      "confidence": "high",
+      "notes": "Credits typically expire 6 months after issuance. The 0% processing fee waiver lasts for 12 months. You cannot have previously received startup credits from this program.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "OVHcloud Startup Program",
+      "what_you_get": "The Start level provides 10,000 Euro in cloud credits and 6 hours of 1-on-1 engineering support for 12 months. The Scale level offers up to 100,000 Euro in cloud credits and up to 20 hours of 1-on-1 engineering support for 12 months. Both tiers include visibility for the startup and access to market and funding opportunities.",
+      "who_qualifies": "The program is open to startups and scaleups globally. The page does not specify funding stage or company age requirements, nor does it detail the review process or specific referral requirements.",
+      "category": "Hyperscaler cloud",
+      "status": "open to apply",
+      "program_url": "https://startup.ovhcloud.com/en/",
+      "source_urls": [
+        "https://startup.ovhcloud.com/en/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Pinecone for Startups",
+      "what_you_get": "Participants receive free access to the Standard Tier and Pro Support. This includes access to any cloud or region deployment, RBAC, backups, import, and Prometheus metrics. You also get a dedicated Slack channel, usage credits, and discounts. The specific dollar amount of the credits is not published.",
+      "who_qualifies": "Startups must have fewer than 100 employees. You must be at the Series A funding stage or earlier. You can reach out to the provided email address for further questions.",
+      "category": "Data or AI infrastructure",
+      "status": "open to apply",
+      "program_url": "https://www.pinecone.io/startup-program/",
+      "source_urls": [
+        "https://www.pinecone.io/startup-program/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Qdrant for Startups",
+      "what_you_get": "Participants receive a 20% discount on Qdrant Cloud for the first year. The program also provides access to expert technical advice sessions. Additionally, members get exclusive perks from partners including Hugging Face, LlamaIndex, and Airbyte.",
+      "who_qualifies": "Eligible startups must be at the Pre-seed, Seed, or Series A stage and under five years old with less than $5M in funding. They must be building an AI-driven product and be new users of Qdrant Cloud or have created their account within the last 30 days. Agencies and devshops are not eligible.",
+      "category": "Data or AI infrastructure",
+      "status": "open to apply",
+      "program_url": "https://qdrant.tech/qdrant-for-startups/",
+      "source_urls": [
+        "https://qdrant.tech/qdrant-for-startups/"
+      ],
+      "confidence": "high",
+      "notes": "The discount is only valid for services billed directly through Qdrant via Stripe and requires a credit card on file. Billing cannot be processed through a marketplace.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Redis Startup Program",
+      "what_you_get": "Qualifying startups receive free Redis for 6 months, subject to usage limits. Participants also get early access to new features and products. Additionally, the program provides dedicated customer support, including monthly office hours and a basic support plan, along with co-marketing and networking opportunities.",
+      "who_qualifies": "The page does not spell out specific eligibility criteria such as funding stage, company age, or regional requirements. Interested startups must apply through the provided form to be considered.",
+      "category": "Data or AI infrastructure",
+      "status": "open to apply",
+      "program_url": "https://redis.io/startups/",
+      "source_urls": [
+        "https://redis.io/startups/"
+      ],
+      "confidence": "high",
+      "notes": "The free offer is subject to usage limits.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Runpod Startup Program",
+      "what_you_get": "The Growth Tier offers $25,000 in bonus credits when you commit $50,000 upfront, totaling $75,000 in credits. The Starter Tier provides $1,000 in free credits for early-stage startups. Both tiers allow usage across Pods, Serverless, Clusters, and Storage with full platform access.",
+      "who_qualifies": "The program is primarily for venture-backed startups from Seed to Series B+ stages with production AI workloads. Applicants should have immediate infrastructure needs and be ready to onboard. Existing customers are generally not eligible but can contact support for case-by-case evaluation.",
+      "category": "GPU or AI cloud",
+      "status": "open to apply",
+      "program_url": "https://www.runpod.io/startup-program",
+      "source_urls": [
+        "https://www.runpod.io/startup-program"
+      ],
+      "confidence": "high",
+      "notes": "The Growth Tier requires a 12-month agreement and an upfront financial commitment. The program is selective and primarily intended for new customers.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Runware",
+      "what_you_get": "New users receive $2 in credits upon signing up with a business email. This amount covers hundreds to thousands of generations based on their per-request pricing. No credit card is required to access these initial credits.",
+      "who_qualifies": "The program is available to users who sign up with a business email. The page does not specify further eligibility requirements regarding funding stage or company age.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://runware.ai/",
+      "source_urls": [
+        "https://runware.ai/"
+      ],
+      "confidence": "high",
+      "notes": "The credits are intended for evaluation purposes. Users can contact the company if they require more credits to complete their evaluation.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "SambaNova Startup Accelerator",
+      "what_you_get": "Participants receive free enterprise-tier usage limits on SambaNova Cloud for a portion of the program. The program also provides priority support from product and developer relations teams, early access to new features, and opportunities for marketing exposure. Additionally, startups gain access to SambaNova's AI infrastructure and potential strategic partnerships.",
+      "who_qualifies": "The program is aimed at early-stage startups, specifically mentioning Series A or B companies. Applicants should have a strong vision for AI-powered applications and be eager to provide feedback on developer features. The selection committee reviews applications and reaches out to shortlisted candidates.",
+      "category": "GPU or AI cloud",
+      "status": "open to apply",
+      "program_url": "https://sambanova.ai/blog/startup-accelerator-helping-ai-innovators-realize-their-vision",
+      "source_urls": [
+        "https://sambanova.ai/blog/startup-accelerator-helping-ai-innovators-realize-their-vision"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Shakti Studio Free Credit",
+      "what_you_get": "The program offers ₹10,000 in free credits to be used on the Shakti Studio platform. These credits can be applied toward serverless GPU usage, AI endpoint tokens, and fine-tuning jobs. The credits are valid for 30 days from the date of account activation.",
+      "who_qualifies": "The offer is available to net new acquisitions or new orders. Users must register with a business email, complete a KYC verification process, and participate in a confirmation call with a representative. The program is targeted at AI startups, GCCs, and businesses in regulated sectors like BFSI and healthcare.",
+      "category": "GPU or AI cloud",
+      "status": "open to apply",
+      "program_url": "https://shakticloud.ai/shakti-studio-free-ai-cloud-credits/",
+      "source_urls": [
+        "https://shakticloud.ai/shakti-studio-free-ai-cloud-credits/"
+      ],
+      "confidence": "high",
+      "notes": "Credits are applied against standard pay-as-you-go pricing. There are no automatic charges after the credits expire; users must manually add a payment method to continue.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Snowflake for Startups",
+      "what_you_get": "The program offers free usage on your first contract to help build your business on Snowflake. Participants also gain access to technical expertise, go-to-market guidance, and a global network of investors, partners, and customers. The amount of free usage is not published.",
+      "who_qualifies": "The program is for startups building products where data is a core component, leveraging AI and Machine Learning, or dealing with large and complex datasets. Eligibility is determined through a registration process where the team reviews interest.",
+      "category": "Data or AI infrastructure",
+      "status": "open to apply",
+      "program_url": "https://www.snowflake.com/en/why-snowflake/startup-program/",
+      "source_urls": [
+        "https://www.snowflake.com/en/why-snowflake/startup-program/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Startup India",
+      "what_you_get": "The program provides access to tax benefits, easier compliance, and IPR fast-tracking for recognised startups. It also offers various initiatives like mentorship through MAARG, financial assistance via the Seed Fund Scheme, and networking opportunities. Specific credit amounts for cloud services are not published on this page.",
+      "who_qualifies": "Companies must meet specific criteria to be considered eligible for DPIIT Recognition. The page does not spell out the exact funding stage or age requirements, but directs users to check their eligibility on the portal.",
+      "category": "Ecosystem or hardware program",
+      "status": "open to apply",
+      "program_url": "https://www.startupindia.gov.in/",
+      "source_urls": [
+        "https://www.startupindia.gov.in/"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Startup Program",
+      "what_you_get": "The program offers up to €3,000 in free cloud credits to help startups build and scale their MVP. Participants also receive 24/7/365 expert human support.",
+      "who_qualifies": "The page does not spell out specific eligibility criteria such as funding stage or company age. Interested parties are invited to apply through the website.",
+      "category": "App platform or PaaS",
+      "status": "open to apply",
+      "program_url": "https://upcloud.com/",
+      "source_urls": [
+        "https://upcloud.com/"
+      ],
+      "confidence": "high",
+      "notes": "The page also mentions a separate €500 free credit offer for general sign-ups, which is valid for 30 days.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Together AI Startup Accelerator",
+      "what_you_get": "The program offers free platform credits ranging from $15,000 to $50,000 depending on the funding tier. Participants also receive between 3 and 10 hours of forward-deployed engineering support. Additional benefits include exclusive content, joint go-to-market opportunities, and access to a VC network.",
+      "who_qualifies": "The program is selection-based and categorized by funding amount. The Build tier is for startups with up to $5M raised, Scale is for $5M-$10M, and Grow is for those with over $10M raised. Applicants must submit their details for team review.",
+      "category": "Inference or model API",
+      "status": "open to apply",
+      "program_url": "https://www.together.ai/startup-accelerator",
+      "source_urls": [
+        "https://www.together.ai/startup-accelerator"
+      ],
+      "confidence": "high",
+      "notes": "Credits do not apply to Reserved GPU Clusters.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Vercel for Startups",
+      "what_you_get": "Eligible teams receive up to $30,000 in Flexible Commitment Amount. The program also provides Enterprise-tier access and startup-focused support.",
+      "who_qualifies": "The page does not explicitly detail specific funding stages or company age requirements. Interested teams must contact the startup team to apply.",
+      "category": "App platform or PaaS",
+      "status": "open to apply",
+      "program_url": "https://vercel.com/startups",
+      "source_urls": [
+        "https://vercel.com/startups"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Vultr Digital Start-up Program",
+      "what_you_get": "The program offers up to $100K in cloud credits and 35% long-term discounts. Participants also receive executive sponsorship, architecture reviews, dedicated management, and priority support.",
+      "who_qualifies": "Eligible startups must have secured recent Series A, B, C, D, or E financing. Applicants must provide contact details for their senior-most technical executive and cloud infrastructure lead. Additionally, companies must share their last 6 months of cloud compute invoices and agree to be publicly referenceable.",
+      "category": "Hyperscaler cloud",
+      "status": "open to apply",
+      "program_url": "https://discover.vultr.com/startup-program",
+      "source_urls": [
+        "https://discover.vultr.com/startup-program"
+      ],
+      "confidence": "high",
+      "notes": "Applicants must agree to be publicly referenceable as a member of the program.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Weaviate Startup Deal",
+      "what_you_get": "The specific amount of credits or discounts is not published on the page. The program provides a deal applied directly to your Weaviate Cloud account after validation by their team.",
+      "who_qualifies": "The program is open to startups associated with specific programs or VCs, such as Y Combinator or Techstars. Applicants must provide their company name and the name of their partner program or VC to be considered.",
+      "category": "Data or AI infrastructure",
+      "status": "open to apply",
+      "program_url": "https://weaviate.io/startup-deal",
+      "source_urls": [
+        "https://weaviate.io/startup-deal"
+      ],
+      "confidence": "high",
+      "notes": "Applicants must use the same email address for both their Weaviate Console account and the redemption form.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Zilliz AI Startup Program",
+      "what_you_get": "The program offers exclusive discounts for development, testing, and early production workloads. Participants also receive technical support for architecture reviews and performance optimization. Additionally, startups get go-to-market exposure and access to the Zilliz partner ecosystem.",
+      "who_qualifies": "The program is designed for early-stage AI startups building retrieval-powered AI applications. This includes companies working on RAG, semantic search, multimodal, and agent-based workflows. The page does not specify funding stages or age requirements.",
+      "category": "Data or AI infrastructure",
+      "status": "open to apply",
+      "program_url": "https://zilliz.com/zilliz-for-startups",
+      "source_urls": [
+        "https://zilliz.com/zilliz-for-startups"
+      ],
+      "confidence": "high",
+      "notes": "The specific dollar amount of the discounts is not published.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "NVIDIA Inception Program",
+      "what_you_get": "The page mentions that Hyperstack offers discounts for members of the NVIDIA Inception Program. The specific amount of these discounts is not published. Users are encouraged to speak to a solutions engineer for cost optimization.",
+      "who_qualifies": "The page does not spell out the eligibility requirements for the program. It only notes that the platform honors discounts for members of the NVIDIA Inception Program.",
+      "category": "GPU or AI cloud",
+      "status": "open to apply",
+      "program_url": "https://www.hyperstack.cloud/",
+      "source_urls": [
+        "https://www.hyperstack.cloud/"
+      ],
+      "confidence": "medium",
+      "notes": "The page does not provide a direct application link for a startup program, only referencing that they honor NVIDIA Inception Program discounts.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Startup Program",
+      "what_you_get": "The program offers free credit, mentorship, and access to cloud native experts to help startups scale. Additionally, all new users receive $250 in free credit to explore the platform for one month. The specific amount of startup-specific credit is not published.",
+      "who_qualifies": "The page does not spell out specific eligibility criteria such as funding stage or company age. It mentions that they work with ambitious startups, but does not provide further details on the application process or requirements.",
+      "category": "App platform or PaaS",
+      "status": "open to apply",
+      "program_url": "https://www.civo.com/",
+      "source_urls": [
+        "https://www.civo.com/"
+      ],
+      "confidence": "medium",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Nebius for Startups",
+      "what_you_get": "The program offers exclusive compute credits, direct engineering support, and go-to-market opportunities. The specific dollar amount of the credits is not published. Participants also gain access to strategic investor introductions and co-marketing opportunities.",
+      "who_qualifies": "The program is highly selective and requires a referral from an approved VC partner. Eligible startups must be VC or accelerator-backed, have raised at least $5M USD, and be incorporated for fewer than 5 years. Applicants must be building or scaling an AI-enabled product or model.",
+      "category": "GPU or AI cloud",
+      "status": "waitlist",
+      "program_url": "https://nebius.com/startups",
+      "source_urls": [
+        "https://nebius.com/startups"
+      ],
+      "confidence": "high",
+      "notes": "Acceptance is strictly through a Nebius VC partner. Due to high demand, applicants are currently directed to a waitlist.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "GitHub for Startups",
+      "what_you_get": "Eligible startups receive $10,000 in credits to use across the GitHub Enterprise platform for up to 12 months. These credits cover GitHub Enterprise license costs, GitHub Copilot, GitHub Advanced Security, and other metered offerings. Participants also receive 50,000 included Action minutes and access to tailored onboarding and technical guidance.",
+      "who_qualifies": "Startups must be affiliated with a GitHub for Startups partner and have received outside funding up to Series B. They must be new to GitHub Enterprise, meaning they have not been on an Enterprise plan within the past six months and have not previously received GitHub credits. The program is intended for early-stage startups.",
+      "category": "App platform or PaaS",
+      "status": "partner or invite only",
+      "program_url": "https://github.com/enterprise/startups",
+      "source_urls": [
+        "https://github.com/enterprise/startups"
+      ],
+      "confidence": "high",
+      "notes": "Credits are valid for 12 months. A valid payment method must be on file, and accounts will automatically transition to standard paid billing once credits are exhausted or the program expires.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Netlify for Startups",
+      "what_you_get": "Eligible startups receive access to Netlify at a discounted rate compared to standard pricing. The program also includes structured support and access to tools like AI Gateway, Agent Runners, and various building blocks for shipping features. Specific credit amounts are not published.",
+      "who_qualifies": "The program is limited to VC-backed portfolio companies of approved venture partners, accelerators, and incubators. Startups must be building AI-native products. Access is not publicly available and requires approval.",
+      "category": "App platform or PaaS",
+      "status": "partner or invite only",
+      "program_url": "https://www.netlify.com/partners/startups/",
+      "source_urls": [
+        "https://www.netlify.com/partners/startups/"
+      ],
+      "confidence": "high",
+      "notes": "Benefits cannot be combined with other promotions or discounts. Startups cannot apply without an approved VC partner.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Neysa AI Velocity Program",
+      "what_you_get": "The program offers a 21-month partnership with tiered discounts on cloud consumption. You receive 80% discount credits in month 1, 50% in month 2, and 30% in month 3. From month 4 to 21, a credit reimbursement model is activated based on infrastructure cost rebates tied to revenue growth.",
+      "who_qualifies": "The program is for AI-centric startups that have secured over $5M in funding. You must have an active B2B or B2C revenue-generating model. It is an exclusive, invitation-only initiative.",
+      "category": "GPU or AI cloud",
+      "status": "partner or invite only",
+      "program_url": "https://neysa.ai/startup-program/",
+      "source_urls": [
+        "https://neysa.ai/startup-program/"
+      ],
+      "confidence": "high",
+      "notes": "The program is specifically for startups in India. Benefits are tied to specific milestones like onboarding, UAT completion, and production launch.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "OpenAI for Startups",
+      "what_you_get": "Eligible startups can receive API credits, rate limit upgrades, and access to technical and go-to-market support. The specific amount of credits is not published. Startups also gain access to exclusive events and direct contact with the OpenAI startup team.",
+      "who_qualifies": "The program is primarily for startups backed by specific venture capital firms within the OpenAI partner network. Founders must obtain a unique referral code from their VC to apply. Eligibility is confirmed through the VC partner.",
+      "category": "Inference or model API",
+      "status": "partner or invite only",
+      "program_url": "https://openai.com/business/why-openai/startups/",
+      "source_urls": [
+        "https://openai.com/business/why-openai/startups/"
+      ],
+      "confidence": "high",
+      "notes": "Credits are accessed via a referral code provided by partner VCs. Once credits are exhausted, the account automatically switches to standard billing.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Supabase YC Program",
+      "what_you_get": "The program provides Supabase credits to Y Combinator startups. These credits allow startups to use the full suite of database, authentication, and real-time tools without upfront expenses. The exact dollar amount of the credits is not published.",
+      "who_qualifies": "The program is available to startups that join Y Combinator. It is designed to support founders in scaling their startups efficiently.",
+      "category": "App platform or PaaS",
+      "status": "partner or invite only",
+      "program_url": "https://supabase.com/customers/resend",
+      "source_urls": [
+        "https://supabase.com/customers/resend"
+      ],
+      "confidence": "high",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Oracle for Startups",
+      "what_you_get": "The page does not mention a specific startup credit program. It directs users to the Oracle Cloud Free Tier, which provides access to select Always Free cloud services. The amount of credits is not published.",
+      "who_qualifies": "The page does not spell it out. It provides general information for startups interested in using Oracle Cloud Infrastructure.",
+      "category": "Hyperscaler cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.oracle.com/cloud/oracle-for-startups/",
+      "source_urls": [
+        "https://www.oracle.com/cloud/oracle-for-startups/"
+      ],
+      "confidence": "high",
+      "notes": "The page focuses on general cloud services and reference architectures rather than a dedicated startup program with specific benefits.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "AI21 Labs",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.ai21.com/",
+      "source_urls": [
+        "https://www.ai21.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Akamai Linode",
+      "what_you_get": "Not confirmed on this run. HTTP 403",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.linode.com/",
+      "source_urls": [
+        "https://www.linode.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Cohere Startup Program",
+      "what_you_get": "The program offers early-stage companies access to Cohere's AI technology at an affordable cost. The specific amount of credits or discounts is not published on the page. It aims to help startups scale their business and gain a competitive edge.",
+      "who_qualifies": "The program is intended for early-stage companies. The page does not spell out specific funding stages, age requirements, or application processes.",
+      "category": "Inference or model API",
+      "status": "could not confirm",
+      "program_url": "https://cohere.com/blog/cohere-launches-startup-program",
+      "source_urls": [
+        "https://cohere.com/blog/cohere-launches-startup-program"
+      ],
+      "confidence": "low",
+      "notes": "The page mentions the program exists but does not provide details on how to apply or specific benefits.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Comet ML",
+      "what_you_get": "Not confirmed on this run. No startup program page found on their site.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.comet.com/site/",
+      "source_urls": [
+        "https://www.comet.com/site/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "CoreWeave startup or accelerator program",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.coreweave.com/",
+      "source_urls": [
+        "https://www.coreweave.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "CtrlS",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.ctrls.in/",
+      "source_urls": [
+        "https://www.ctrls.in/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Cudo Compute",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.cudocompute.com/",
+      "source_urls": [
+        "https://www.cudocompute.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "DataCrunch",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://datacrunch.io/",
+      "source_urls": [
+        "https://datacrunch.io/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "DeepStart",
+      "what_you_get": "The amount of credits or specific benefits provided by the DeepStart program is not published on the page. The page mentions that they offer hands-on technical support and simple APIs for startups.",
+      "who_qualifies": "The page does not spell out specific eligibility requirements for the DeepStart program. It only mentions that they support startups and enterprises.",
+      "category": "Inference or model API",
+      "status": "could not confirm",
+      "program_url": "https://deepinfra.com/",
+      "source_urls": [
+        "https://deepinfra.com/"
+      ],
+      "confidence": "low",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Elastic for Startups",
+      "what_you_get": "Not confirmed on this run. No startup program page found on their site.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.elastic.co/",
+      "source_urls": [
+        "https://www.elastic.co/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Equinix Metal",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://deploy.equinix.com/",
+      "source_urls": [
+        "https://deploy.equinix.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Exoscale Startup Program",
+      "what_you_get": "Not confirmed on this run. HTTP 404",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.exoscale.com/startups/",
+      "source_urls": [
+        "https://www.exoscale.com/startups/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Fluidstack",
+      "what_you_get": "Not confirmed on this run. No startup program page found on their site.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.fluidstack.io/",
+      "source_urls": [
+        "https://www.fluidstack.io/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Fly.io",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://fly.io/",
+      "source_urls": [
+        "https://fly.io/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Genesis Cloud",
+      "what_you_get": "Not confirmed on this run. HTTPSConnectionPool(host='www.genesiscloud.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLErro",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.genesiscloud.com/",
+      "source_urls": [
+        "https://www.genesiscloud.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Groq startup or developer credits",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://groq.com/",
+      "source_urls": [
+        "https://groq.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Heroku for Startups",
+      "what_you_get": "Not confirmed on this run. No startup program page found on their site.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.heroku.com/",
+      "source_urls": [
+        "https://www.heroku.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Hetzner Cloud",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.hetzner.com/cloud",
+      "source_urls": [
+        "https://www.hetzner.com/cloud"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Hot Aisle",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://hotaisle.xyz/",
+      "source_urls": [
+        "https://hotaisle.xyz/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Hugging Face compute grants or startup plan",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://huggingface.co/",
+      "source_urls": [
+        "https://huggingface.co/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Hyperbolic",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://hyperbolic.xyz/",
+      "source_urls": [
+        "https://hyperbolic.xyz/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Intel Liftoff for AI Startups",
+      "what_you_get": "Not confirmed on this run. HTTP 403",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.intel.com/content/www/us/en/developer/programs/liftoff/overview.html",
+      "source_urls": [
+        "https://www.intel.com/content/www/us/en/developer/programs/liftoff/overview.html"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "io.net",
+      "what_you_get": "Not confirmed on this run. The page had almost no text on it.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://io.net/",
+      "source_urls": [
+        "https://io.net/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "JarvisLabs startup or research credits",
+      "what_you_get": "Not confirmed on this run. No startup program page found on their site.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://jarvislabs.ai/",
+      "source_urls": [
+        "https://jarvislabs.ai/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Krutrim Cloud",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://olakrutrim.com/cloud",
+      "source_urls": [
+        "https://olakrutrim.com/cloud"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Lambda GPU cloud startup credits",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://lambda.ai/service/gpu-cloud",
+      "source_urls": [
+        "https://lambda.ai/service/gpu-cloud"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Latitude.sh",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.latitude.sh/",
+      "source_urls": [
+        "https://www.latitude.sh/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Massed Compute",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://massedcompute.com/",
+      "source_urls": [
+        "https://massedcompute.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Mistral AI for startups",
+      "what_you_get": "Not confirmed on this run. No startup program page found on their site.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://mistral.ai/",
+      "source_urls": [
+        "https://mistral.ai/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Nscale startup program",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.nscale.com/",
+      "source_urls": [
+        "https://www.nscale.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "NxtGen Cloud",
+      "what_you_get": "Not confirmed on this run. The page had almost no text on it.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.nxtgen.com/",
+      "source_urls": [
+        "https://www.nxtgen.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Ori",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.ori.co/",
+      "source_urls": [
+        "https://www.ori.co/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Paperspace startup credits",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.paperspace.com/",
+      "source_urls": [
+        "https://www.paperspace.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Parasail",
+      "what_you_get": "Not confirmed on this run. No startup program page found on their site.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.parasail.io/",
+      "source_urls": [
+        "https://www.parasail.io/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Prime Intellect",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.primeintellect.ai/",
+      "source_urls": [
+        "https://www.primeintellect.ai/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Qualcomm developer programs",
+      "what_you_get": "Not confirmed on this run. The page had almost no text on it.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.qualcomm.com/developer",
+      "source_urls": [
+        "https://www.qualcomm.com/developer"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Railway startup program",
+      "what_you_get": "The page mentions that a startup program exists but does not provide any details on the specific credits, discounts, or support offered. The amount of credit is not published.",
+      "who_qualifies": "The page does not spell out the eligibility requirements for the startup program. It only mentions that the program exists.",
+      "category": "App platform or PaaS",
+      "status": "could not confirm",
+      "program_url": "https://railway.com/",
+      "source_urls": [
+        "https://railway.com/"
+      ],
+      "confidence": "low",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Reka AI",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.reka.ai/",
+      "source_urls": [
+        "https://www.reka.ai/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Replicate startup credits",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://replicate.com/",
+      "source_urls": [
+        "https://replicate.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Salad Cloud",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://salad.com/",
+      "source_urls": [
+        "https://salad.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Scaleway Startup Program",
+      "what_you_get": "Not confirmed on this run. HTTP 403",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.scaleway.com/en/startup-program/",
+      "source_urls": [
+        "https://www.scaleway.com/en/startup-program/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Sesterce",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.sesterce.com/",
+      "source_urls": [
+        "https://www.sesterce.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "SF Compute",
+      "what_you_get": "Not confirmed on this run. No startup program page found on their site.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://sfcompute.com/",
+      "source_urls": [
+        "https://sfcompute.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Shadeform",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.shadeform.ai/",
+      "source_urls": [
+        "https://www.shadeform.ai/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Sify Technologies Startup Program",
+      "what_you_get": "The program offers a venture-backed launchpad that combines funding, access to enterprise customers, and digital infrastructure. The specific amount of funding or credit is not published. They provide access to India-scale digital infrastructure and integration into real-world platforms.",
+      "who_qualifies": "The page does not spell out specific eligibility criteria such as funding stage, company age, or review time. It mentions a focus on startups looking to integrate into real-world platforms and scale using India-ready AI infrastructure.",
+      "category": "Data or AI infrastructure",
+      "status": "could not confirm",
+      "program_url": "https://www.sifytechnologies.com/startups/",
+      "source_urls": [
+        "https://www.sifytechnologies.com/startups/"
+      ],
+      "confidence": "low",
+      "notes": "The program is described as a venture-backed launchpad rather than a standard credit program. It emphasizes a pay-per-use colocation model for GPU services.",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "SingleStore",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.singlestore.com/",
+      "source_urls": [
+        "https://www.singlestore.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Startup Program",
+      "what_you_get": "The page mentions a Startup Program but does not provide details on specific credit amounts or benefits. It states that users can start with as little as $5 for general compute services.",
+      "who_qualifies": "The page does not spell out eligibility requirements for the startup program. It does not mention funding stages, company age, or application processes.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://vast.ai/",
+      "source_urls": [
+        "https://vast.ai/"
+      ],
+      "confidence": "low",
+      "notes": "",
+      "changed_since_last_run": "",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Tata Communications cloud",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.tatacommunications.com/",
+      "source_urls": [
+        "https://www.tatacommunications.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Tencent Cloud",
+      "what_you_get": "Not confirmed on this run. The page had almost no text on it.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.tencentcloud.com/",
+      "source_urls": [
+        "https://www.tencentcloud.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "TensorDock",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://tensordock.com/",
+      "source_urls": [
+        "https://tensordock.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "TigerData formerly Timescale",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://www.tigerdata.com/",
+      "source_urls": [
+        "https://www.tigerdata.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Weights and Biases",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://wandb.ai/site/",
+      "source_urls": [
+        "https://wandb.ai/site/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "Writer",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://writer.com/",
+      "source_urls": [
+        "https://writer.com/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    },
+    {
+      "name": "xAI",
+      "what_you_get": "Not confirmed on this run. That page is not about a startup program.",
+      "who_qualifies": "Not confirmed on this run.",
+      "category": "GPU or AI cloud",
+      "status": "could not confirm",
+      "program_url": "https://x.ai/",
+      "source_urls": [
+        "https://x.ai/"
+      ],
+      "confidence": "low",
+      "notes": "Check this one by hand.",
+      "changed_since_last_run": "",
+      "failure": "page",
+      "last_checked": "2026-09-02",
+      "checked_this_run": true,
+      "source_trust": "official"
+    }
+  ],
+  "run": {
+    "started_at": "2026-09-02T16:17:47.937489+00:00",
+    "finished_at": "2026-09-02T16:59:46.065569+00:00",
+    "seconds": 2518.1,
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "scope": "deep",
+    "programs_in_scope": 119,
+    "checked_this_run": 119,
+    "carried_forward": 0,
+    "stopped_early": false,
+    "partial": false
+  }
+}
