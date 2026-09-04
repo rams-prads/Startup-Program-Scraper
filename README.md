@@ -197,7 +197,6 @@ company with no public program page are all different, and the row says which.
 | `run_refresh.py` | The same refresh from the command line |
 | `start.bat`, `start.sh` | First run setup, then start the app |
 | `tests/test_offline.py` | The test suite, no network needed |
-| `Startup-Credit-Tracker-Technical-Overview.pdf` | Ten page written explanation of the whole system |
 | `data/latest.json` | Last run, with sources |
 | `data/latest.md` | Last run as a markdown table |
 
